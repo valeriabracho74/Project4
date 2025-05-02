@@ -46,7 +46,3 @@ This repository contains all code and data used for Project 4 in ENGIN 480, whic
 - Each wind farm has its own standalone simulation and optimization script.
 - All simulations use the SG 8.0-167 DD turbine and the Bastankhah wake model.
 - This repo is organized to make each part reusable, testable, and modular.
-
----
-
-Let me know if you want a shorter version or want to auto-generate headings from files!
