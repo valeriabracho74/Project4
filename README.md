@@ -15,7 +15,7 @@ This repository contains all code and data used for Project 4 in ENGIN 480, whic
 1. **Vineyard Wind**
 2. **Revolution SouthFork Wind**
 3. **Coastal Virginia Offshore Wind**
-4. **Yunlin Wind** (project focus)
+4. **Yunlin Wind**
 
 ## ⚙️ Tools and Libraries
 
