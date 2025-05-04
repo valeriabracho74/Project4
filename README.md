@@ -1,4 +1,4 @@
-# Project_4 – Wind Farm AEP Simulation and Optimization
+# Project_4 – Renewable Energy Simulation and Optimization (Wind, Hybrid, and Marine)
 
 This repository contains all code and data used for Project 4 in ENGIN 480, which involves simulating and optimizing the Annual Energy Production (AEP) of offshore wind farms using PyWake and TopFarm.
 
@@ -40,6 +40,17 @@ This repository contains all code and data used for Project 4 in ENGIN 480, whic
 3. Optimize AEP with TopFarm (using spacing and boundary constraints)
 4. Track results with `TopFarmListRecorder`
 5. Plot convergence and optimized layout
+
+## 🌊 Hybrid & Marine Energy (Deliveries 3 and 4)
+
+### 🛰️ Delivery 3: Hybrid Energy Simulation (HyDesign)
+
+This part of the project explores hybrid energy systems using the HyDesign platform. The goal was to simulate a mix of wind, solar, and battery systems. We cloned the HyDesign repository and used Streamlit to run the interface. Changes were made to the system configuration (like battery size and generation sources), and the effects were explained in the report. The final setup was tested, and meaningful results were visualized.
+
+### ⚓ Delivery 4: Marine Energy Simulation (WEC-Sim)
+
+For this delivery, we used MATLAB and WEC-Sim to simulate a two-body wave energy converter (a float and a spar). The simulation included hydrodynamic data from BEMIO and post-processing of force and motion plots. Modifications included changes to wave height, wave period, and PTO damping. The results were used to evaluate how the device responds under different sea conditions. A 3D animation confirmed the device’s behavior matched expected physics.
+
 
 ## 📌 Notes
 
